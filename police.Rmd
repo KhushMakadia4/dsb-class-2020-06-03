@@ -19,4 +19,6 @@ x <- read_csv("https://raw.githubusercontent.com/Financial-Times/police-miscondu
 ```{r}
 glimpse(x)
 
+skim(x)
+
 ```
